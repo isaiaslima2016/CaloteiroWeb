@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+<link rel="stylesheet" type = "text/css" href= "CSS/estilo.css">
+
+.laranja{
+	
+	color : #FFA500;
+	
+	}
+
+	body {
+	font-family:arial;
+	font-size:12px;
+	font-weight: bold;
+ }
+
+	.linksVermelhos{
+	color : red;
+	}
